@@ -1,0 +1,30 @@
+**Database Name: attmgsystem**
+
+**Developed by SY-20 Group**
+
+
+*Admin Login Details*
+
+Username: admin
+Password: admin
+
+
+*Student Login Details*
+
+Username: Atharva
+Password: Atharva
+
+Username: Amaan
+Password: Amaan
+
+Username: Mansoor
+Password: Mansoor
+
+Username: Sejal
+Password: Sejal
+
+
+*Teacher Login Details*
+
+Username: swati
+Password: swati
